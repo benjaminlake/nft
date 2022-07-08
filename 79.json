@@ -1,0 +1,37 @@
+{
+  "image": "79.png",
+  "name": "Space Sneks Demo #79",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stupid"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Trenchcoat"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Solana Flag"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
