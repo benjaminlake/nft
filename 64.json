@@ -1,0 +1,37 @@
+{
+  "image": "64.png",
+  "name": "Space Sneks Demo #64",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Capri"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Camo Hot Pink"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Stupid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Excited"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Toga"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Officer"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Popcorn"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
