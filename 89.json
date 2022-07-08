@@ -1,0 +1,37 @@
+{
+  "image": "89.png",
+  "name": "Space Sneks Demo #89",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "external_url": "https://sneks.diamondhandshotel.com",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Magic Mint"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Camo Hot Pink"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Googly"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Jumpsuit"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "3d Glasses"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Nether Raygun"
+    }
+  ],
+  "compiler": "nft-inator.com"
+}
