@@ -1,0 +1,8 @@
+{
+  "name": "Space Sneks Demo",
+  "description": "My first demo using a small collection of Space Sneks components",
+  "symbol": "SNEK",
+  "external_link": "https://sneks.diamondhandshotel.com",
+  "seller_fee_basis_points": 100,
+  "fee_recipient": "0x64f736720f65C32BCAd5580eE6f8fB3bA65BCfc4"
+}
